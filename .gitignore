@@ -9,3 +9,6 @@ recording.wav
 
 # dataset folder for chirp audio files
 Dataset/
+
+# VS Code workspace file
+audio_recorder.code-workspace
